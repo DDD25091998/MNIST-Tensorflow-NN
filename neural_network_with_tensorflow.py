@@ -10,7 +10,7 @@ Original file is located at
 
 **Run on Google Collab**
 
-I create a more complex project to classify MNIST numbers to show I understand more complicated notions.
+I created a more complex project to classify MNIST numbers to show I understand more complicated notions.
 """
 
 !conda install tensorflow
